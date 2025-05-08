@@ -8,6 +8,5 @@ This repository contains all the pipelines developed as part of the thesis proje
 
 - Python notebooks  
 - Trained models  
-- CSV files generated from the study  
 
 These resources support the development, testing, and evaluation of the multimodal EEG-HAR framework.
